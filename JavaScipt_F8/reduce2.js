@@ -103,7 +103,7 @@ function calculateRating(arr) {
     }, 0)
     return sum / list.length
 }
-
+z
 
 
 
