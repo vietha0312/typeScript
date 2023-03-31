@@ -1,0 +1,23 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 2"
+    },
+    {
+      "name": "pham hong viet ha",
+      "price": "185.000",
+      "id": 3
+    },
+    {
+      "name": "pham",
+      "price": "2",
+      "id": 4
+    },
+    {
+      "name": "Áo thun nữ thái in  chữ form xuông xịn",
+      "price": "185.000",
+      "id": 5
+    }
+  ]
+}

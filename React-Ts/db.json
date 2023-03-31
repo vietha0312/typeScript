@@ -1,20 +1,24 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "product 1",
-      "price": "100"
-    }
-    ,
-    {
-      "id": 2,
-      "name": "product 2",
-      "price": "200"
-    },
-    {
       "id": 3,
       "name": "product 3",
       "price": "300"
+    },
+    {
+      "name": "LINGGOAT",
+      "price": "1234",
+      "id": 4
+    },
+    {
+      "name": "LINGGOAT",
+      "price": "2",
+      "id": 5
+    },
+    {
+      "name": "ANHPhan",
+      "price": "133",
+      "id": 6
     }
   ]
 }

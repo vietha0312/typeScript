@@ -25,7 +25,7 @@ const addProduct = (product: Iproduct) =>{
 
 
 const updateProduct = (product:Iproduct)=>{
-    return instance.put('/products/' + product.id, product)
+    return instance.put('/products/' + product.id, product)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 }
 
 
